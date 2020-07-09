@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": "shyfcka <2979893134@qq.com>",
   "description": "shyfcka的聊天室",
-  "license": null,
+  "license": "MIT",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js",
